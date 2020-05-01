@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest a new idea for Flutter.
-title: ''
+title: 
 labels: ''
 assignees: ''
 
